@@ -54,7 +54,8 @@ namespace DiceBot
                                             "stake.bz",
                                             "stake.jp",
                                             "stake.ac",
-                                            "stake.icu" };
+                                            "stake.icu",
+                                            "stake.us"};
             CurrentMirror = "";
         }
         public override decimal GetLucky(string server, string client, int nonce)
