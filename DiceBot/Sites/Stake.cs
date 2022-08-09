@@ -13,7 +13,7 @@ namespace DiceBot
     class Stake : PrimeDice
     {
 
-        public static new string[] sCurrencies = new string[] { "BTC", "ETH", "LTC", "DOGE", "BCH", "XRP", "TRX", "EOS", "BNB", "USDT", "BNB", "USDT" };
+        public static new string[] sCurrencies = new string[] { "BTC", "ETH", "LTC", "DOGE", "BCH", "XRP", "TRX", "EOS", "BNB", "USDT", "GC", "SC" };
         
         public Stake(cDiceBot Parent) : base(Parent)
         {
